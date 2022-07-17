@@ -24,7 +24,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 	**Actual Result:** 200 OK HTTP code response with response body from a different movie
 	(Different movie deleted) and the movie with the id used
 
-	![This is a alt text.]([/screenshots/bug_0.png](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_0.png) "Bug")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_0.png?raw=true)
 
 	**PS:** if we continue executing the delete request call, it deletes random movies in the app.
 
@@ -62,7 +62,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	**Actual Result:** Successful message alert displaying "Movie Inserted successfully"
 
-	![This is a alt text.](/screenshots/bug_2.png "Bug")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_2.png?raw=true)
 
 * Error messages are not displayed in the UI
 	
@@ -79,7 +79,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	**Actual Result:** No messages, after clicking Add Movie it does nothing and remains in the Create Movie page, after opening the devtools and check Network tab, we realized it's complaining  with a 400 BAD Request HTTP code response Error
 
-	![This is a alt text.](/screenshots/bug_3.png "Bug")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_3.png?raw=true)
 
 * Not possible filter by Time
 
@@ -97,7 +97,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	**Actual Result:** No input text field for filtering Time
 
-	![This is a alt text.](/screenshots/bug_4.png "Bug")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_4.png?raw=true)
 
 * There is a Typo with UPDATE word
 
@@ -115,7 +115,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	**Actual Result:** Upadate word
 
-	![This is a alt text.](/screenshots/bug_5.png "Bug")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_5.png?raw=true)
 
 * There is a Typo with you word in the confirm pop up when click Delete button
 
@@ -134,7 +134,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	**Actual Result:** tou word
 
-	![This is a alt text.](/screenshots/bug_6.png "Bug")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/bug_6.png?raw=true)
 
 
 
@@ -145,15 +145,15 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	* [UI] Rating field allows 'e' concatenated with multiple numbers
 
-	![This is a alt text.](/screenshots/imp_1.png "Improvement")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/imp_1.png?raw=true)
 
 	* [UI] Rating field allows + sign
 
-	![This is a alt text.](/screenshots/imp_2.png "Improvement")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/imp_2.png?raw=true)
 
 	* [UI] Rating field allows - sign
 
-	![This is a alt text.](/screenshots/imp_3.png "Improvement")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/imp_3.png?raw=true)
 
 * Movie name field has no limit in characters
 	
@@ -161,17 +161,17 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 
 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu lectus et metus consequat aliquet eget nec lacus. Sed mi nisi, accumsan ut interdum vitae, faucibus in nunc. In mi dolor, posuere sit amet nunc ut, scelerisque aliquam metus. Nam eget tristique ligula. Suspendisse sit amet vehicula erat. Maecenas pellentesque nisl sed ex congue pellentesque. Phasellus sed sapien a nunc auctor dignissim in in lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere libero non orci ornare hendrerit. Proin vitae sollicitudin nunc. Donec metus erat, scelerisque vel orci ac, rhoncus aliquam justo. Aliquam dapibus et nibh sed congue. Duis nec feugiat ante, ac convallis magna. Nulla at justo a urna ultricies blandit nec nec turpis.
 
-	![This is a alt text.](/screenshots/imp_4.png "Improvement")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/imp_4.png?raw=true)
 
 
 * Time field Should be restricted only to time values (Numbers and letters {h, m, s}) and limit in characters
 
-![This is a alt text.](/screenshots/imp_5.png "Improvement")
+![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/imp_5.png?raw=true)
 
 
 * When Deleting a movie, the alert refers to the ID of the movie, it is complicated to read/understand, The movie name would be more human-friendly
 
-![This is a alt text.](/screenshots/imp_6.png "Improvement")
+![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/imp_6.png?raw=true)
 
 * When updating a movie, after the update, it remains in the Create movie page, a better UX would be take the user to the List movies
 

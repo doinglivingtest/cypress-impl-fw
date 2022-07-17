@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Beetlejuice",
+        "rating": "8.9",
+        "time": [
+            "1h 20m"
+        ]
+    },
+    {
+      "name": "The Cotton Club",
+      "rating": "9.0",
+      "time": [
+          "1h 20m"
+      ]
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "rating": "9.2",
+        "time": [
+            "1h 50m"
+        ]
+    },
+    {
+        "name": "Crocodile Dundee",
+        "rating": "9.4",
+        "time": [
+            "1h 19m"
+        ]
+    },
+    {
+        "name": "Valkyrie",
+        "rating": "9.6",
+        "time": [
+            "1h 42m"
+        ]
+    },
+    {
+        "name": "Ratatouille",
+        "rating": "9.6",
+        "time": [
+            "1h 51m"
+        ]
+    },
+    {
+        "name": "The Intouchables",
+        "rating": "9.8",
+        "time": [
+            "1h 52m"
+        ]
+    },
+    {
+        "name": "Scarface",
+        "rating": "9.8",
+        "time": [
+            "2h 50m"
+        ]
+    },
+    {
+        "name": "Black Swan",
+        "rating": "8.8",
+        "time": [
+            "1h 48m"
+        ]
+    },
+    {
+        "name": "God Bless America",
+        "rating": "6.6",
+        "time": [
+            "1h 45m"
+        ]
+    },
+    {
+        "name": "Inception",
+        "rating": "9.0",
+        "time": [
+            "2h 28m"
+        ]
+    },
+    {
+        "name": "Pulp Fiction",
+        "rating": "9.8",
+        "time": [
+            "2h 34m"
+        ]
+    },
+    {
+        "name": "Shutter Island",
+        "rating": "7.5",
+        "time": [
+            "2h 18m"
+        ]
+    },
+    {
+        "name": "Midnight in Paris",
+        "rating": "5.1",
+        "time": [
+            "1h 34m"
+        ]
+    },
+    {
+        "name": "Les Misérables",
+        "rating": "9.6",
+        "time": [
+            "2h 38m"
+        ]
+    },
+    {
+        "name": "The Hangover",
+        "rating": "9.9",
+        "time": [
+            "1h 40m"
+        ]
+    },
+    {
+        "name": "Forrest Gump",
+        "rating": "9.8",
+        "time": [
+            "2h 22m"
+        ]
+    },
+    {
+        "name": "Madagascar",
+        "rating": "9.4",
+        "time": [
+            "1h 26m"
+        ]
+    },
+    {
+        "name": "The Social Network",
+        "rating": "8.9",
+        "time": [
+            "2h"
+        ]
+    },
+    {
+        "name": "Catch Me If You Can",
+        "rating": "6.6",
+        "time": [
+            "2h 21m"
+        ]
+    }
+]

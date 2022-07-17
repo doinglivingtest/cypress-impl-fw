@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+cypress/videos
+cypress/screenshots
+mochawesome-report/
+cypress-combined-report.json
+dummy.cy.js
+cypress/reports

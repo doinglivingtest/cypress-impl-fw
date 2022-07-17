@@ -14,7 +14,7 @@ Most of this qa feedback is result of a exploratory testing session of ~ 40min w
 	**Steps to reproduce:**
 	1. Execute Delete endpoint with a known id (For this testc case we used id: 62d452162fb3283e492da2f8)
 
-	![This is a alt text.]([/screenshots/](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/stc_1.png "Support Test case")
+	![This is a alt text.](https://github.com/doinglivingtest/cypress-impl-fw/blob/main/manual%20testing/screenshots/stc_1.png?raw=true)
 
 	1. Go to any tool to execute delete endpoint, in our case we used Postman
 	(DELETE - http://localhost:5001/api/movie/62d452162fb3283e492da2f8)
